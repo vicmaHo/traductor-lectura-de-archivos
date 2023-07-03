@@ -1,0 +1,6 @@
+perro,dog
+gato,cat
+casa,house
+telefono,phone
+hand,mano
+bueno,ok

@@ -1,0 +1,4 @@
+madre,mother
+padre,father
+hermano,brother
+abuela,grand mother
